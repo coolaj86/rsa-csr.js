@@ -1,2 +1,2 @@
 'use strict';
-module.exports = require('./lib/rsa-csr.js');
+module.exports = require('./lib/csr.js');
