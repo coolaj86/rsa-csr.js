@@ -1,6 +1,6 @@
 {
   "name": "rsa-csr",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "💯 A focused, zero-dependency library to generate a Certificate Signing Request (CSR) and sign it!",
   "homepage": "https://git.coolaj86.com/coolaj86/rsa-csr.js",
   "main": "index.js",

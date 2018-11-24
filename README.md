@@ -1,4 +1,4 @@
-RSA-CSR.js
+[RSA-CSR.js](https://git.coolaj86.com/coolaj86/rsa-csr.js)
 ==========
 
 Sponsored by [Root](https://therootcompany.com),
@@ -208,6 +208,7 @@ Hence, all of these projects are MPL-2.0 licensed.
 Legal
 -----
 
+[RSA-CSR.js](https://git.coolaj86.com/coolaj86/rsa-csr.js) |
 MPL-2.0 |
 [Terms of Use](https://therootcompany.com/legal/#terms) |
 [Privacy Policy](https://therootcompany.com/legal/#privacy)
