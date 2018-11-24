@@ -64,7 +64,7 @@ return rsacsr({ key: key, domains: domains }).then(function (csr) {
 
 The output will look something like this (but much longer):
 
-```js
+```
 -----BEGIN CERTIFICATE REQUEST-----
 MIIClTCCAX0CAQAwFjEUMBIGA1UEAwwLZXhhbXBsZS5jb20wggEiMA0GCSqGSIb3
 DQEBAQUAA4IBDwAwggEKAoIBAQCba21UHE+VbDTpmYYFZUOV+OQ8AngOCdjROsPC
@@ -81,7 +81,7 @@ If you need to convert a PEM to JWK first, do so:
 ```js
 var Rasha = require('rasha');
 
-Rasha.import({ pem: '-----BEGIN RSA PRIVATE KEY-----\nMIIEpAI..." }).then(function (jwk) {
+Rasha.import({ pem: "-----BEGIN RSA PRIVATE KEY-----\nMIIEpAI..." }).then(function (jwk) {
   console.log(jwk);
 })
 ```
