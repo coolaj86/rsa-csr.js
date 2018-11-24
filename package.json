@@ -1,6 +1,6 @@
 {
   "name": "rsa-csr",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "💯 A focused, zero-dependency library to generate a Certificate Signing Request (CSR) and sign it!",
   "main": "index.js",
   "bin": {
