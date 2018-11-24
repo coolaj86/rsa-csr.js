@@ -6,8 +6,9 @@ built for [ACME.js](https://git.coolaj86.com/coolaj86/acme.js)
 and [Greenlock.js](https://git.coolaj86.com/coolaj86/greenlock-express.js)
 
 A focused, **zero-dependency** library that can do exactly one thing really, really well:
-
   * Generate a Certificate Signing Requests (CSR), and sign it!
+
+| < 300 lines of code | 1.7k gzipped | 4.7k minified | 8.5k with comments |
 
 Need JWK-to-PEM? Try [Rasha.js](https://git.coolaj86.com/coolaj86/rasha.js)
 
